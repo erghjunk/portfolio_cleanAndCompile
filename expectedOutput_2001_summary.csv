@@ -1,0 +1,230 @@
+CountyState,fips,Year,Productionshorttons,AverageEmployees
+Allegany_Maryland,24001,2001,1148864,145
+Allegheny_Pennsylvania,42003,2001,200,3
+Anderson_Tennessee,47001,2001,46166,22
+Armstrong_Pennsylvania,42005,2001,4255323,432
+Atascosa_Texas,48013,2001,3378562,134
+Athans_Ohio,-9999,2001,1257839,68
+Barbour_West Virginia,54001,2001,567792,55
+Bates_Missouri,29013,2001,366435,38
+Beaver_Pennsylvania,42007,2001,299800,42
+Bedford_Pennsylvania,42009,2001,13852,5
+Bell_Kentucky,21013,2001,2582118,530
+Belmont_Ohio,39013,2001,7018837,714
+Berks_Pennsylvania,42011,2001,0,6
+Bibb_Alabama,1007,2001,82906,4
+Bighorn_Montana,-9999,2001,24963235,447
+Boone_West Virginia,54005,2001,32676625,3097
+Boyd_Kentucky,21019,2001,0,124
+Breathitt_Kentucky,21025,2001,1302678,172
+Brooke_West Virginia,54009,2001,1035414,162
+Buchanan_Virginia,51027,2001,11589519,1599
+Butler_Pennsylvania,42019,2001,531072,46
+Cambria_Pennsylvania,42021,2001,1384208,249
+Cambria_Refuse Recovery,-9999,2001,124536,6
+Campbell_Tennessee,47013,2001,922763,167
+Campbell_Wyoming,56005,2001,329370115,3299
+Carbon_Utah,49007,2001,9483599,550
+Carbon_Wyoming,56007,2001,815439,44
+Carroll_Ohio,39019,2001,114284,22
+Choctaw_Mississippi,28019,2001,603827,128
+Christian_Kentucky,21047,2001,404456,43
+Clairborne_Tennessee,-9999,2001,1982763,278
+Clarion_Pennsylvania,42031,2001,476650,76
+Clay_Indiana,18021,2001,647421,81
+Clay_Kentucky,21051,2001,67426,94
+Clay_West Virginia,54015,2001,4569899,319
+Clearfield_Pennsylvania,42033,2001,3482675,589
+Colfax_New Mexico,35007,2001,1122951,139
+Columbia_Pennsylvania,42037,2001,308326,88
+Columbiana_Ohio,39029,2001,190101,44
+Converse_Wyoming,56009,2001,24520144,236
+Coshocton_Ohio,39031,2001,56459,44
+Craig_Oklahoma,40035,2001,237569,25
+Cumberland_Tennessee,47035,2001,267597,52
+Dauphin_Pennsylvania,42043,2001,0,10
+Daviess_Indiana,18027,2001,4384682,264
+Daviess_Kentucky,21059,2001,75429,14
+De Soto_Louisiana,-9999,2001,2802756,147
+Delta_Colorado,8029,2001,5388989,206
+Dickenson_Virginia,51051,2001,3230718,735
+Elk_Pennsylvania,42047,2001,527311,61
+Emery_Utah,49015,2001,9227422,559
+Estill_Kentucky,21065,2001,0,15
+Estill_Refuse Recovery,-9999,2001,2796,4
+Fayette_Pennsylvania,42051,2001,375040,57
+Fayette_Refuse Recovery,-9999,2001,57322,13
+Fayette_West Virginia,54019,2001,3391804,397
+Fentress_Tennessee,47049,2001,83474,14
+Floyd_Kentucky,21071,2001,3365483,718
+Floyd_Refuse Recovery,-9999,2001,6297,3
+Freestone_Texas,48161,2001,3690306,257
+Fremont_Colorado,8043,2001,562,6
+Gallatin_Illinois,17059,2001,4881057,429
+Gallia_Ohio,39053,2001,221058,26
+Garfield_Colorado,8045,2001,323007,21
+Garrett_Maryland,24023,2001,3495134,325
+Gibson_Indiana,18051,2001,12378264,657
+Grant_West Virginia,54023,2001,774402,87
+Greenbrier_West Virginia,54025,2001,779398,118
+Greene_Indiana,18055,2001,921304,75
+Greene_Pennsylvania,42059,2001,39269132,2583
+Guernsey_Ohio,39059,2001,682008,127
+Gunnison_Colorado,8051,2001,7832976,556
+Harlan_Kentucky,21095,2001,12409922,1882
+Harrison_Ohio,39067,2001,3174221,342
+Harrison_Texas,48203,2001,3476580,175
+Harrison_West Virginia,54033,2001,6141196,690
+Haskell_Oklahoma,40061,2001,512687,44
+Henderson_Kentucky,21101,2001,1096308,88
+Holmes_Ohio,39075,2001,176252,16
+Hopkins_Kentucky,21107,2001,6303781,625
+Hopkins_Refuse Recovery,-9999,2001,134344,14
+Hopkins_Texas,48223,2001,2188991,98
+Indiana_Pennsylvania,42063,2001,3831729,373
+Jackson_Alabama,1071,2001,1200,4
+Jackson_Illinois,17077,2001,1203936,54
+Jackson_Ohio,39079,2001,1575560,171
+Jefferson_Alabama,1073,2001,6646675,1193
+Jefferson_Illinois,17081,2001,1951480,379
+Jefferson_Ohio,39081,2001,954439,163
+Jefferson_Pennsylvania,42065,2001,1252929,219
+Jefferson_Refuse Recovery,-9999,2001,78097,11
+Johnson_Arkansas,5071,2001,3719,2
+Johnson_Kentucky,21115,2001,543079,92
+Johnson_Refuse Recovery,-9999,2001,109,2
+Kanawha_Refuse Recovery,-9999,2001,43231,6
+Kanawha_West Virginia,54039,2001,16230513,1349
+Knott_Kentucky,21119,2001,12893961,1593
+Knox_Indiana,18083,2001,5860618,578
+Knox_Kentucky,21121,2001,425476,136
+Knox_Refuse Recovery,-9999,2001,63018,12
+La Plata_Colorado,8067,2001,268755,40
+Lackawanna_Pennsylvania,42069,2001,18253,48
+Las Animas_Colorado,8071,2001,13097,34
+Laurel_Kentucky,21125,2001,27779,24
+Lawrence_Kentucky,21127,2001,629252,83
+Lawrence_Pennsylvania,42073,2001,72354,18
+Lawrence_Refuse Recovery,-9999,2001,14308,9
+Le Flore_Oklahoma,40079,2001,784393,66
+Lee_Kentucky,21129,2001,2549,4
+Lee_Virginia,51105,2001,498275,195
+Leon_Texas,48289,2001,7386216,401
+Leslie_Kentucky,21131,2001,6459665,820
+Letcher_Kentucky,21133,2001,10649178,1513
+Letcher_Refuse Recovery,-9999,2001,196581,22
+Lewis_Washington,53041,2001,4624245,557
+Lincoln_West Virginia,54043,2001,1766013,210
+Lincoln_Wyoming,56023,2001,4495264,276
+Linn_Kansas,20107,2001,176064,9
+Logan_Refuse Recovery,-9999,2001,6842,1
+Logan_West Virginia,54045,2001,10367798,1015
+Luzerne_Pennsylvania,42079,2001,401846,238
+Luzerne_Refuse Recovery,-9999,2001,25623,23
+Lycoming_Pennsylvania,42081,2001,354575,69
+Macoupin_Illinois,17117,2001,4621593,543
+Mahoning_Ohio,39099,2001,10085,5
+Marion_Alabama,1093,2001,70085,14
+Marion_West Virginia,54049,2001,1193754,162
+Marshall_West Virginia,54051,2001,10687875,893
+Martin_Kentucky,21159,2001,9821974,1057
+Mcdonough_Illinois,-9999,2001,482638,79
+Mcdowell_Refuse Recovery,-9999,2001,131867,15
+Mcdowell_West Virginia,-9999,2001,4942302,1008
+Mckinley_New Mexico,-9999,2001,12847556,680
+Mclean_Kentucky,-9999,2001,268475,29
+Mclean_North Dakota,-9999,2001,7705809,228
+Meigs_Ohio,39105,2001,4284600,524
+Mercer_North Dakota,38057,2001,18858383,554
+Mercer_West Virginia,54055,2001,22387,8
+Milam_Texas,48331,2001,5709325,208
+Mineral_West Virginia,54057,2001,90350,18
+Mingo_Refuse Recovery,-9999,2001,33154,2
+Mingo_West Virginia,54059,2001,22082279,1992
+Moffat_Colorado,8081,2001,7709905,465
+Monongalia_Pennsylvania,-9999,2001,5034038,470
+Monongalia_West Virginia,54061,2001,6975641,700
+Monroe_Ohio,39111,2001,447965,131
+Montgomery_Illinois,17135,2001,2427808,225
+Montgomery_Pennsylvania,42091,2001,0,3
+Montrose_Colorado,8085,2001,370725,30
+Morgan_Kentucky,21175,2001,41343,5
+Muhlenberg_Kentucky,21177,2001,4662571,362
+Muskingum_Ohio,39119,2001,706475,61
+Navajo_Arizona,4017,2001,13417524,698
+Nicholas_West Virginia,54067,2001,5610045,403
+Noble_Ohio,39121,2001,549853,43
+Northumberland_Pennsylvania,42097,2001,46633,87
+Northumberland_Refuse Recovery,-9999,2001,359233,5
+Nueces_Texas,48355,2001,0,2
+Ohio_Kentucky,21183,2001,106409,11
+Okmulgee_Oklahoma,40111,2001,4465,2
+Oliver_North Dakota,38065,2001,3911225,130
+Owen_Indiana,18119,2001,280530,18
+Owsley_Kentucky,21189,2001,37041,6
+Panola_Texas,48365,2001,6362056,440
+Parke_Indiana,18121,2001,122974,28
+Perry_Illinois,17145,2001,396463,26
+Perry_Kentucky,21193,2001,13671537,1671
+Perry_Ohio,39127,2001,1051679,57
+Pike_Indiana,18125,2001,5144147,406
+Pike_Kentucky,21195,2001,34049398,4402
+Pike_Refuse Recovery,-9999,2001,45821,7
+Preston_West Virginia,54077,2001,2465475,285
+Pulaski_Kentucky,21199,2001,0,35
+Raleigh_West Virginia,54081,2001,9303923,1014
+Randolph_Illinois,17157,2001,2634000,177
+Red River_Louisiana,-9999,2001,912380,39
+Richland_Montana,30083,2001,340438,13
+Rio Blanco_Colorado,8103,2001,2027341,157
+Robertson_Texas,48395,2001,2143975,107
+Rogers_Oklahoma,40131,2001,175335,16
+Rosebud_Montana,30087,2001,13839147,383
+Routt_Colorado,8107,2001,9436348,436
+Rusk_Texas,48401,2001,5260223,207
+Russell_Refuse Recovery,-9999,2001,285909,14
+Russell_Virginia,51167,2001,665065,153
+Saline_Illinois,17165,2001,8667421,782
+San Juan_New Mexico,35045,2001,15647045,909
+Sangamon_Illinois,17167,2001,2075250,214
+Schuylkill_Pennsylvania,42107,2001,708993,475
+Schuylkill_Refuse Recovery,-9999,2001,71110,12
+Scott_Tennessee,47151,2001,21508,33
+Sebastian_Arkansas,5131,2001,10643,15
+Sebastian_Refuse Recovery,-9999,2001,3035,1
+Sevier_Utah,49041,2001,8255461,376
+Shelby_Alabama,1117,2001,44230,71
+Somerset_Pennsylvania,42111,2001,5162822,661
+Spencer_Indiana,18147,2001,199095,21
+St Clair_Illinois,-9999,2001,0,15
+Stark_Ohio,39151,2001,728264,66
+Sullivan_Indiana,18153,2001,1320132,115
+Sweetwater_Wyoming,56037,2001,9548210,510
+Tazewell_Virginia,51185,2001,1626539,283
+Titus_Texas,48449,2001,5312347,402
+Tucker_West Virginia,54093,2001,276625,23
+Tuscaloosa_Alabama,1125,2001,10076055,1676
+Tuscarawas_Ohio,39157,2001,840946,125
+Union_Kentucky,21225,2001,3632169,421
+Upshur_West Virginia,54097,2001,2130054,264
+Venango_Pennsylvania,42121,2001,89459,23
+Vermilion_Illinois,17183,2001,1065508,111
+Vigo_Indiana,18167,2001,4071449,230
+Vinton_Ohio,39163,2001,1358768,173
+Wabash_Illinois,17185,2001,1463407,191
+Walker_Alabama,1127,2001,2120238,335
+Walker_Refuse Recovery,-9999,2001,70653,6
+Warrick_Indiana,18173,2001,1407235,70
+Washington_Pennsylvania,42125,2001,5544810,1359
+Wayne_West Virginia,54099,2001,5584435,556
+Webb_Texas,48479,2001,133825,39
+Webster_Kentucky,21233,2001,8186877,829
+Webster_West Virginia,54101,2001,5831920,650
+Westmoreland_Pennsylvania,42129,2001,703734,96
+White_Illinois,17193,2001,1889486,207
+Whitley_Kentucky,21235,2001,118040,136
+Williamson_Illinois,17199,2001,23395,21
+Winston_Alabama,1133,2001,322462,36
+Wise_Virginia,51195,2001,15163908,2490
+Wyoming_West Virginia,54109,2001,6917896,1104
+Yukon-Koyukuk_Alaska,-9999,2001,1514241,119

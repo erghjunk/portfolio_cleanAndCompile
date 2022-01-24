@@ -1,0 +1,195 @@
+CountyState,fips,Year,Productionshorttons,AverageEmployees
+Allegany_Maryland,24001,2015,1128963,171
+Allegheny_Pennsylvania,42003,2015,5440,6
+Armstrong_Pennsylvania,42005,2015,1275449,223
+Atascosa_Texas,48013,2015,2574464,228
+Barbour_West Virginia,54001,2015,1005556,280
+Bates_Missouri,29013,2015,138206,15
+Beaver_Pennsylvania,42007,2015,309110,19
+Bedford_Pennsylvania,42009,2015,119238,14
+Bell_Kentucky,21013,2015,1476947,435
+Belmont_Ohio,39013,2015,5401211,638
+Bibb_Alabama,1007,2015,62598,6
+Big Horn_Montana,30003,2015,25503071,600
+Blair_Pennsylvania,42013,2015,17050,8
+Boone_West Virginia,54005,2015,8480679,1686
+Boyd_Kentucky,21019,2015,0,26
+Breathitt_Kentucky,21025,2015,270338,47
+Buchanan_Virginia,51027,2015,7100586,1155
+Butler_Pennsylvania,42019,2015,36173,17
+Cambria_Pennsylvania,42021,2015,847265,171
+Campbell_Tennessee,47013,2015,68031,13
+Campbell_Wyoming,56005,2015,328221901,5017
+Carbon_Pennsylvania,42025,2015,31170,12
+Carbon_Utah,49007,2015,7101392,672
+Carroll_Ohio,39019,2015,185852,58
+Choctaw_Mississippi,28019,2015,2976276,218
+Claiborne_Tennessee,47025,2015,821334,261
+Clarion_Pennsylvania,42031,2015,10102,4
+Clay_Indiana,18021,2015,289527,36
+Clay_Kentucky,21051,2015,0,16
+Clearfield_Pennsylvania,42033,2015,2075120,399
+Columbia_Pennsylvania,42037,2015,147724,48
+Converse_Wyoming,56009,2015,35181059,611
+Coshocton_Ohio,39031,2015,0,32
+Dauphin_Pennsylvania,42043,2015,16417,16
+Davidson_Tennessee,47037,2015,8119,2
+Daviess_Indiana,18027,2015,1013954,90
+Daviess_Kentucky,21059,2015,334672,28
+De Soto_Louisiana,-9999,2015,3244014,280
+Delta_Colorado,8029,2015,1023031,194
+Denali_Alaska,-9999,2015,1177390,113
+Dickenson_Virginia,51051,2015,3585016,850
+Dubois_Indiana,18037,2015,1368577,134
+Elk_Pennsylvania,42047,2015,8721,9
+Emery_Utah,49015,2015,966600,131
+Estill_Kentucky,21065,2015,0,35
+Fayette_Pennsylvania,42051,2015,23605,29
+Fayette_West Virginia,54019,2015,2709675,614
+Floyd_Kentucky,21071,2015,2391402,497
+Floyd_Refuse Recovery,-9999,2015,2265,3
+Franklin_Alabama,1059,2015,146955,30
+Franklin_Illinois,17055,2015,10587790,404
+Franklin_Refuse Recovery,-9999,2015,55445,3
+Freestone_Texas,48161,2015,1387041,138
+Gallatin_Illinois,17059,2015,1101321,138
+Garrett_Maryland,24023,2015,792906,188
+Gibson_Indiana,18051,2015,10316369,1088
+Grant_West Virginia,54023,2015,51431,19
+Greenbrier_West Virginia,54025,2015,916614,222
+Greene_Indiana,18055,2015,3022,29
+Greene_Pennsylvania,42059,2015,28507567,2903
+Guernsey_Ohio,39059,2015,17391,11
+Gunnison_Colorado,8051,2015,5074821,368
+Hamilton_Illinois,17065,2015,5815950,376
+Harlan_Kentucky,21095,2015,3793465,945
+Harrison_Ohio,39067,2015,2738850,383
+Harrison_Texas,48203,2015,3850810,374
+Harrison_West Virginia,54033,2015,133321,73
+Haskell_Oklahoma,40061,2015,22351,6
+Hopkins_Kentucky,21107,2015,6844611,860
+Hopkins_Texas,48223,2015,511938,62
+Indiana_Pennsylvania,42063,2015,2119031,401
+Indiana_Refuse Recovery,-9999,2015,652475,9
+Jackson_Alabama,1071,2015,3939,5
+Jackson_Illinois,17077,2015,23204,7
+Jackson_Ohio,39079,2015,155115,15
+Jefferson_Alabama,1073,2015,6570101,1556
+Jefferson_Ohio,39081,2015,393566,99
+Jefferson_Pennsylvania,42065,2015,797277,158
+Johnson_Kentucky,21115,2015,122108,53
+Kanawha_West Virginia,54039,2015,7657646,1408
+Kane_Utah,49025,2015,326603,39
+Kemper_Mississippi,28069,2015,167116,112
+Knott_Kentucky,21119,2015,2697545,325
+Knox_Indiana,18083,2015,6386123,693
+Knox_Kentucky,21121,2015,392630,159
+La Plata_Colorado,8067,2015,814544,121
+Laurel_Kentucky,21125,2015,6637,11
+Lawrence_Kentucky,21127,2015,373375,86
+Le Flore_Oklahoma,40079,2015,564697,107
+Lee_Texas,48287,2015,6482152,332
+Lee_Virginia,51105,2015,0,44
+Leon_Texas,48289,2015,3353517,404
+Leslie_Kentucky,21131,2015,1361768,238
+Letcher_Kentucky,21133,2015,549959,201
+Limestone_Texas,48293,2015,8114714,318
+Lincoln_West Virginia,54043,2015,0,9
+Lincoln_Wyoming,56023,2015,4470864,293
+Linn_Kansas,20107,2015,199199,7
+Livingston_Kentucky,21139,2015,0,23
+Logan_West Virginia,54045,2015,9561932,1687
+Luzerne_Pennsylvania,42079,2015,483405,303
+Luzerne_Refuse Recovery,-9999,2015,12984,2
+Lycoming_Pennsylvania,42081,2015,119887,32
+Macoupin_Illinois,17117,2015,2011152,122
+Magoffin_Kentucky,21153,2015,258011,73
+Marion_West Virginia,54049,2015,13760151,1197
+Marshall_West Virginia,54051,2015,16376633,1594
+Martin_Kentucky,21159,2015,1345245,348
+Maverick_Texas,48323,2015,715112,95
+Mcdowell_West Virginia,-9999,2015,2681762,860
+Mckinley_New Mexico,-9999,2015,7476237,318
+Mclean_Kentucky,-9999,2015,842924,140
+Mclean_North Dakota,-9999,2015,7979800,500
+Mercer_North Dakota,38057,2015,16428040,597
+Mercer_Pennsylvania,42085,2015,44584,5
+Mercer_West Virginia,54055,2015,149721,22
+Mingo_West Virginia,54059,2015,3911916,475
+Moffat_Colorado,8081,2015,4441232,390
+Monongalia_West Virginia,54061,2015,2740988,577
+Monroe_Ohio,39111,2015,5248702,481
+Montgomery_Illinois,17135,2015,1876828,160
+Montgomery_Pennsylvania,42091,2015,0,5
+Montrose_Colorado,8085,2015,238093,29
+Muhlenberg_Kentucky,21177,2015,3567732,469
+Musselshell_Montana,30065,2015,6419645,313
+Natchitoches_Louisiana,-9999,2015,194714,27
+Navajo_Arizona,4017,2015,6804555,403
+Nicholas_West Virginia,54067,2015,655443,147
+Noble_Ohio,39121,2015,430225,44
+Northumberland_Pennsylvania,42097,2015,251637,133
+Northumberland_Refuse Recovery,-9999,2015,38607,13
+Nowata_Oklahoma,40105,2015,190909,47
+Ohio_Kentucky,21183,2015,6748636,701
+Ohio_West Virginia,54069,2015,6030582,516
+Okmulgee_Oklahoma,40111,2015,2242,1
+Oliver_North Dakota,38065,2015,4393986,164
+Panola_Texas,48365,2015,3383844,263
+Perry_Illinois,17145,2015,3691796,297
+Perry_Kentucky,21193,2015,6269583,931
+Perry_Ohio,39127,2015,1355758,330
+Pike_Indiana,18125,2015,1651292,161
+Pike_Kentucky,21195,2015,6298035,1648
+Pike_Refuse Recovery,-9999,2015,6388,2
+Raleigh_West Virginia,54081,2015,5633400,1449
+Randolph_Illinois,17157,2015,2978546,287
+Randolph_West Virginia,54083,2015,0,21
+Richland_Montana,30083,2015,270285,12
+Rio Blanco_Colorado,8103,2015,3164746,192
+Robertson_Texas,48395,2015,2079570,109
+Rosebud_Montana,30087,2015,9671003,405
+Routt_Colorado,8107,2015,4122448,348
+Rusk_Texas,48401,2015,3464804,366
+Russell_Refuse Recovery,-9999,2015,406338,32
+Russell_Virginia,51167,2015,348866,34
+Saline_Illinois,17165,2015,10984324,1041
+Saline_Refuse Recovery,-9999,2015,70701,7
+San Juan_New Mexico,35045,2015,12202559,812
+Sangamon_Illinois,17167,2015,2155473,308
+Schuylkill_Pennsylvania,42107,2015,1022999,488
+Schuylkill_Refuse Recovery,-9999,2015,136833,38
+Sebastian_Arkansas,5131,2015,91462,75
+Sevier_Utah,49041,2015,6024483,369
+Shelby_Alabama,1117,2015,276798,138
+Somerset_Pennsylvania,42111,2015,2049866,508
+St Clair_Illinois,-9999,2015,0,43
+Stark_Ohio,39151,2015,60701,17
+Sullivan_Indiana,18153,2015,9212063,796
+Sweetwater_Wyoming,56037,2015,7898680,714
+Taylor_West Virginia,54091,2015,3383885,485
+Tazewell_Virginia,51185,2015,728966,188
+Tucker_West Virginia,54093,2015,2108354,220
+Tuscaloosa_Alabama,1125,2015,2518567,616
+Tuscarawas_Ohio,39157,2015,890009,154
+Union_Kentucky,21225,2015,9114413,671
+Upshur_West Virginia,54097,2015,597769,160
+Venango_Pennsylvania,42121,2015,10985,11
+Vinton_Ohio,39163,2015,163595,47
+Wabash_Illinois,17185,2015,909793,69
+Walker_Alabama,1127,2015,3319622,786
+Walker_Refuse Recovery,-9999,2015,1710,3
+Warrick_Indiana,18173,2015,4054517,284
+Washington_Illinois,17189,2015,5953533,421
+Washington_Pennsylvania,42125,2015,9492334,665
+Wayne_West Virginia,54099,2015,1031263,401
+Webster_Kentucky,21233,2015,5871014,648
+Webster_West Virginia,54101,2015,1596491,355
+Westmoreland_Pennsylvania,42129,2015,208677,46
+White_Illinois,17193,2015,2373029,280
+Whitley_Kentucky,21235,2015,469467,197
+Williamson_Illinois,17199,2015,5638291,193
+Winston_Alabama,1133,2015,292252,75
+Wise_Virginia,51195,2015,2150835,722
+Wolfe_Kentucky,21237,2015,24444,10
+Wyoming_West Virginia,54109,2015,4457688,1013

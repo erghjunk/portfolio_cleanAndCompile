@@ -1,0 +1,172 @@
+CountyState,fips,Year,Productionshorttons,AverageEmployees
+Allegany_Maryland,24001,2019,784359,92
+Anderson_Tennessee,47001,2019,0,4
+Armstrong_Pennsylvania,42005,2019,574322,107
+Atascosa_Texas,48013,2019,3003780,326
+Barbour_West Virginia,54001,2019,1106710,433
+Bates_Missouri,29013,2019,189273,14
+Bedford_Pennsylvania,42009,2019,208829,20
+Bell_Kentucky,21013,2019,710972,336
+Belmont_Ohio,39013,2019,317168,86
+Berks_Pennsylvania,42011,2019,0,4
+Big Horn_Montana,30003,2019,18700105,624
+Boone_West Virginia,54005,2019,4278519,861
+Boyd_Kentucky,21019,2019,96731,33
+Breathitt_Kentucky,21025,2019,27358,10
+Buchanan_Virginia,51027,2019,6606136,1204
+Butler_Pennsylvania,42019,2019,52739,21
+Cambria_Pennsylvania,42021,2019,1043055,185
+Campbell_Wyoming,56005,2019,243773186,4022
+Carbon_Pennsylvania,42025,2019,442358,39
+Carbon_Utah,49007,2019,8046571,754
+Choctaw_Mississippi,28019,2019,2697331,194
+Claiborne_Tennessee,47025,2019,435923,109
+Clarion_Pennsylvania,42031,2019,40899,7
+Clay_Indiana,18021,2019,271971,35
+Clay_Kentucky,21051,2019,0,15
+Clearfield_Pennsylvania,42033,2019,1148864,288
+Columbia_Pennsylvania,42037,2019,57670,43
+Columbia_Refuse Recovery,-9999,2019,13972,2
+Converse_Wyoming,56009,2019,23243371,591
+Coshocton_Ohio,39031,2019,0,8
+Craig_Oklahoma,40035,2019,178040,44
+Dauphin_Pennsylvania,42043,2019,8011,16
+Daviess_Indiana,18027,2019,2063069,180
+Daviess_Kentucky,21059,2019,283726,31
+De Kalb_Alabama,-9999,2019,2913,2
+De Soto_Louisiana,-9999,2019,1354194,212
+Denali_Alaska,-9999,2019,974702,101
+Dickenson_Refuse Recovery,-9999,2019,148578,10
+Dickenson_Virginia,51051,2019,3513122,818
+Dubois_Indiana,18037,2019,1169132,100
+Elk_Pennsylvania,42047,2019,294,2
+Emery_Utah,49015,2019,1744837,236
+Fayette_Pennsylvania,42051,2019,12171,19
+Fayette_West Virginia,54019,2019,2674254,616
+Floyd_Kentucky,21071,2019,1026783,319
+Floyd_Refuse Recovery,-9999,2019,53921,7
+Franklin_Illinois,17055,2019,12793896,457
+Gallatin_Illinois,17059,2019,119407,17
+Garrett_Maryland,24023,2019,686672,168
+Gibson_Indiana,18051,2019,10149861,903
+Greenbrier_West Virginia,54025,2019,947964,273
+Greene_Pennsylvania,42059,2019,28306113,2075
+Gunnison_Colorado,8051,2019,4079345,348
+Hamilton_Illinois,17065,2019,5889105,317
+Harlan_Kentucky,21095,2019,2041689,597
+Harlan_Refuse Recovery,-9999,2019,25318,21
+Harrison_Ohio,39067,2019,1406439,253
+Harrison_Texas,48203,2019,3324610,340
+Hopkins_Kentucky,21107,2019,3664567,474
+Indiana_Pennsylvania,42063,2019,2217846,260
+Jackson_Ohio,39079,2019,829,1
+Jefferson_Alabama,1073,2019,8899792,1651
+Jefferson_Pennsylvania,42065,2019,339538,78
+Johnson_Kentucky,21115,2019,545157,59
+Kanawha_West Virginia,54039,2019,5560418,1129
+Kane_Utah,49025,2019,240010,26
+Knott_Kentucky,21119,2019,782641,138
+Knox_Indiana,18083,2019,6464442,673
+Knox_Kentucky,21121,2019,281722,61
+La Plata_Colorado,8067,2019,657782,88
+Lackawanna_Pennsylvania,42069,2019,360,6
+Latimer_Oklahoma,40077,2019,48673,11
+Lawrence_Kentucky,21127,2019,32867,23
+Lee_Kentucky,21129,2019,14280,1
+Lee_Virginia,51105,2019,0,15
+Leslie_Kentucky,21131,2019,1177694,241
+Letcher_Kentucky,21133,2019,136395,106
+Limestone_Texas,48293,2019,9594365,340
+Lincoln_West Virginia,54043,2019,0,9
+Lincoln_Wyoming,56023,2019,3067446,272
+Livingston_Kentucky,21139,2019,0,13
+Logan_Refuse Recovery,-9999,2019,121254,10
+Logan_West Virginia,54045,2019,11473190,2137
+Luzerne_Pennsylvania,42079,2019,375372,177
+Lycoming_Pennsylvania,42081,2019,120058,28
+Macoupin_Illinois,17117,2019,1769822,151
+Magoffin_Kentucky,21153,2019,301996,64
+Marion_Alabama,1093,2019,77299,8
+Marion_West Virginia,54049,2019,13006015,1042
+Marshall_West Virginia,54051,2019,18319326,1351
+Martin_Kentucky,21159,2019,491750,86
+Maverick_Texas,48323,2019,1638483,194
+Mcdowell_West Virginia,-9999,2019,3767810,1130
+Mckinley_New Mexico,-9999,2019,5495524,276
+Mclean_Kentucky,-9999,2019,1232646,262
+Mclean_North Dakota,-9999,2019,7421114,470
+Mercer_North Dakota,38057,2019,15617039,596
+Mercer_Pennsylvania,42085,2019,9700,4
+Mercer_West Virginia,54055,2019,267650,47
+Mineral_West Virginia,54057,2019,2999,4
+Mingo_West Virginia,54059,2019,4732871,747
+Moffat_Colorado,8081,2019,3552249,414
+Monongalia_West Virginia,54061,2019,18324,18
+Monroe_Ohio,39111,2019,4735046,367
+Montgomery_Illinois,17135,2019,190670,50
+Montgomery_Pennsylvania,42091,2019,0,4
+Morgan_Kentucky,21175,2019,90264,13
+Muhlenberg_Kentucky,21177,2019,2173046,298
+Musselshell_Montana,30065,2019,7019129,274
+Natchitoches_Louisiana,-9999,2019,183475,30
+Navajo_Arizona,4017,2019,3842508,243
+Nicholas_West Virginia,54067,2019,1021422,210
+Noble_Ohio,39121,2019,425260,45
+Northumberland_Pennsylvania,42097,2019,301537,112
+Northumberland_Refuse Recovery,-9999,2019,443,2
+Ohio_Kentucky,21183,2019,2270340,307
+Ohio_West Virginia,54069,2019,7330458,447
+Okmulgee_Oklahoma,40111,2019,628,1
+Oliver_North Dakota,38065,2019,3958707,175
+Panola_Texas,48365,2019,924947,59
+Perry_Illinois,17145,2019,4468031,357
+Perry_Kentucky,21193,2019,2744493,629
+Perry_Ohio,39127,2019,642101,151
+Perry_Refuse Recovery,-9999,2019,67586,7
+Pike_Indiana,18125,2019,363469,29
+Pike_Kentucky,21195,2019,2895801,933
+Pike_Refuse Recovery,-9999,2019,26483,11
+Raleigh_West Virginia,54081,2019,6627230,1702
+Randolph_Illinois,17157,2019,3203046,282
+Randolph_West Virginia,54083,2019,470959,186
+Richland_Montana,30083,2019,291820,13
+Rio Blanco_Colorado,8103,2019,2034835,169
+Robertson_Texas,48395,2019,2156794,99
+Rosebud_Montana,30087,2019,8456480,391
+Routt_Colorado,8107,2019,2543911,253
+Rusk_Texas,48401,2019,2663711,173
+Russell_Virginia,51167,2019,45748,71
+Saline_Illinois,17165,2019,2940240,397
+San Juan_New Mexico,35045,2019,9040136,650
+Sangamon_Illinois,17167,2019,1608026,266
+Schuylkill_Pennsylvania,42107,2019,1400043,515
+Schuylkill_Refuse Recovery,-9999,2019,11171,12
+Sevier_Utah,49041,2019,4373942,430
+Shelby_Alabama,1117,2019,13360,67
+Somerset_Pennsylvania,42111,2019,3090599,704
+St Clair_Illinois,-9999,2019,0,27
+Stark_Ohio,39151,2019,20353,8
+Sullivan_Indiana,18153,2019,8302283,767
+Sweetwater_Wyoming,56037,2019,6827904,514
+Taylor_West Virginia,54091,2019,4274748,470
+Tazewell_Virginia,51185,2019,223001,76
+Tucker_West Virginia,54093,2019,2075291,225
+Tuscaloosa_Alabama,1125,2019,2484588,510
+Tuscarawas_Ohio,39157,2019,229661,51
+Union_Kentucky,21225,2019,11342348,912
+Venango_Pennsylvania,42121,2019,0,5
+Vinton_Ohio,39163,2019,2245,13
+Wabash_Illinois,17185,2019,1256488,94
+Walker_Alabama,1127,2019,2646237,692
+Warrick_Indiana,18173,2019,2774425,244
+Washington_Illinois,17189,2019,6439823,459
+Washington_Pennsylvania,42125,2019,10075667,651
+Wayne_West Virginia,54099,2019,3560,82
+Webster_Kentucky,21233,2019,1273464,173
+Webster_West Virginia,54101,2019,473575,112
+Westmoreland_Pennsylvania,42129,2019,226501,62
+Whitley_Kentucky,21235,2019,366971,123
+Williamson_Illinois,17199,2019,5174361,231
+Wise_Refuse Recovery,-9999,2019,22939,8
+Wise_Virginia,51195,2019,1909459,564
+Wyoming_West Virginia,54109,2019,4845823,757
